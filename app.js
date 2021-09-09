@@ -71,10 +71,10 @@ function displayAlert(text, action){
 
 // set back to default
 function setBackToDefault(){
-
+    console.log('set back to default');
 }
 // ****** LOCAL STORAGE **********
 function addToLocalStorage(id, value){
-    
+    console.log('added to local storage');
 }
 // ****** SETUP ITEMS **********
